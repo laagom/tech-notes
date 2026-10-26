@@ -154,7 +154,7 @@ function CommonHeader() {
         <div className={styles.header__profileBox}>
             <button className={styles.header__profileBox__button}>사진제출</button>
             <button className={styles.header__profileBox__button}>북마크</button>
-            <span className={styles.header__profileBox__userName}>jyooong | cjyooong@gmail.com</span>
+            <span className={styles.header__profileBox__userName}>user | user@example.com</span>
 
         </div>
     </div>
